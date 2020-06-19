@@ -12,4 +12,4 @@ Deploy ```target/WebApp.war``` on Tomcat
  
 #TODO
  
-Add instruction to deploy to ElasticBeanstalk GCP
+Add instruction to deploy to ElasticBeanstalk GCP-AWS
